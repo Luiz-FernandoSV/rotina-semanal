@@ -51,6 +51,13 @@ export default function App() {
         descricao='informaticos'
 
       />
+      <Card
+        porcentagem='48%'
+        titulo='CODIGOS'
+        imagem='https://i.kym-cdn.com/entries/icons/original/000/021/807/ig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg'
+        descricao='informaticos'
+
+      />
 
     </View>
   );

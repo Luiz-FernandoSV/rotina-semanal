@@ -20,12 +20,12 @@ const estilo = StyleSheet.create({
         elevation: 5,
       },
       tituloCard: {
-        fontSize: 25,
+        fontSize: 18,
         fontWeight: 'bold',
         color: '#1d3557',
       },
       textoCard: {
-        fontSize: 25,
+        fontSize: 15,
         marginTop: 5,
       },
       imagemCard: {

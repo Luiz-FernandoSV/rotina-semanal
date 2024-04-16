@@ -6,7 +6,7 @@ export default function Card(props) {
     return (
         <View style={estilo.cardTarefa}>
             <Image style={estilo.imagemCard} source={{ uri: props.imagem }} />
-            <View style={{ marginLeft: 15, width: 150 }}>
+            <View style={{ marginLeft: 5, width: 150 }}>
                 <Text style={estilo.tituloCard}>{props.titulo}</Text>
                 <Text style={estilo.textoCard}>{props.descricao}</Text>
             </View>
